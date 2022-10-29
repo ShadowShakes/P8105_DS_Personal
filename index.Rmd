@@ -1,21 +1,29 @@
 ---
-title: "Shaohan Chen's Website"
+title: "Shaohan Chen"
 output: 
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
+    css: bootstrap.css
 ---
 
-# Introduction
+Hi, welcome to visit my personal website.
 
-Welcome to my personal page!
+\ \par
 
-!<img src="Images/Snowfox.jpeg" style="width:25%">
+### Introduction
 
+My name is Shaohan(Michael) Chen.
 
+I am an enrolled Master's student in Biostatistics at Columbia University.
 
-# Contact Information
+I will devote myself to the data science application industry/research.
+
+<img src="Images/Snowfox.jpeg" style="width:50%">
+
+\ \par
+
+### Contact Information
 
 [Personal Google Site](https://sites.google.com/view/shaohanchen/home)
 

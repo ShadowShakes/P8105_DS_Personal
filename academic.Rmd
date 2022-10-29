@@ -1,0 +1,12 @@
+---
+title: "Academic Experience"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    css: bootstrap.css
+---
+
+I got my bachelor of science degree in data science at Fudan University.
+
+I am pursuing a master's degree in biostatistics at Columbia University.
