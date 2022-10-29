@@ -1,0 +1,14 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "About"
+      href: about.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<sc5154@cumc.columiba.edu>
+    - icon: fa-github fa-lg
+      href: https://github.com/ShadowShakes
+output:
+  html_document:
+    theme: cerulean

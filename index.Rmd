@@ -1,0 +1,24 @@
+---
+title: "Shaohan Chen's Website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# Introduction
+
+Welcome to my personal page!
+
+!<img src="Images/Snowfox.jpeg" style="width:25%">
+
+
+
+# Contact Information
+
+[Personal Google Site](https://sites.google.com/view/shaohanchen/home)
+
+[Github Link](https://github.com/ShadowShakes)
+
+[LinkedIn Page](https://www.linkedin.com/in/shaohanchen-orange/)
