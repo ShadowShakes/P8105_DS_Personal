@@ -14,6 +14,8 @@ navbar:
       href: mailto:<sc5154@cumc.columiba.edu>
     - icon: fa-github fa-lg
       href: https://github.com/ShadowShakes
+    - text: "CV"
+      href: ./Materials/CV_of_Shaohan_Chen.pdf
 output:
   html_document:
-    css: bootstrap.css
+    theme: flatly

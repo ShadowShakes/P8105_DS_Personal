@@ -4,8 +4,10 @@ output:
   html_document:
     toc: true
     toc_float: true
-    css: bootstrap.css
 ---
+
+\ \par
+
 
 Hi, welcome to visit my personal website.
 
@@ -17,15 +19,25 @@ My name is Shaohan(Michael) Chen.
 
 I am an enrolled Master's student in Biostatistics at Columbia University.
 
-I will devote myself to the data science application industry/research.
+I love to study data science, play badminton, basketball and all kinds of games, and I love watching movies and TV series.
 
-<img src="Images/Snowfox.jpeg" style="width:50%">
+I will devote myself to the data science application industry/research in the future.
+
+<img src="Images/Snowfox.jpeg" style="width:55%">
 
 \ \par
 
 ### Contact Information
 
-[Personal Google Site](https://sites.google.com/view/shaohanchen/home)
+Shaohan Chen
+
+Columbia Mailman School of Public Health
+
+100 Haven Ave, New York, NY 10032
+
+[E-mail](mailto:<sc5154@cumc.columiba.edu>)
+
+[Google Site](https://sites.google.com/view/shaohanchen/home)
 
 [Github Link](https://github.com/ShadowShakes)
 

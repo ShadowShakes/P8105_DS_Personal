@@ -4,9 +4,14 @@ output:
   html_document:
     toc: true
     toc_float: true
-    css: bootstrap.css
 ---
 
-### This is website for Homework4
+### Description
 
-Here's some description of the dataset.
+This website is for P8105 Homework 4, which is established on the basis of Rstudio and Github.
+
+Thanks to the knowledge learnt from P8105, I would be able to make personalized website for myself.
+
+The full version of Shaohan's personal website will have more details and be established later mainly based on this version.
+
+<img src="Images/about.jpeg" style="width:80%">
