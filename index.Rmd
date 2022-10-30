@@ -8,7 +8,6 @@ output:
 
 \ \par
 
-
 Hi, welcome to visit my personal website.
 
 \ \par

@@ -7,6 +7,8 @@ navbar:
       href: academic.html
     - text: "Professional Experience"
       href: professional.html
+    - text: "Flexdashboard"
+      href: flexdashboard.html    
   right:
     - text: "About"
       href: about.html

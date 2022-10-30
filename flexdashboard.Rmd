@@ -1,0 +1,50 @@
+---
+title: "Flexdashboard"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE, message = FALSE)
+```
+### Introduction
+
+This page displays some examples of interactive graphics using `ploty`.
+
+\ \par
+
+### Ploty
+
+```{r}
+library(tidyverse)
+library(p8105.datasets)
+library(plotly)
+```
+
+We make plots based on "instacart" daetaset.
+```{r}
+data("instacart")
+ins_df = 
+  head(instacart, 1000000) %>%
+  as_tibble() %>%
+  janitor::clean_names()
+```
+
+
+```{r}
+bar_plot = 
+  ins_df %>%
+  count(aisle) %>% 
+  filter(n > 10000) %>% 
+  mutate(aisle = fct_reorder(aisle, n)) %>% 
+  ggplot(aes(x = aisle, y = n)) + 
+  geom_col() + 
+  labs(title = "Number of items ordered in each aisle") +
+  theme(axis.text.x = element_text(angle = 60, hjust = 1),
+        plot.title = element_text(hjust = 0.0, size=10)
+        )
+
+ggplotly(bar_plot)
+```
