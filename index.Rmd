@@ -18,11 +18,17 @@ My name is Shaohan(Michael) Chen.
 
 I am an enrolled Master's student in Biostatistics at Columbia University.
 
-I love to study data science, play badminton, basketball and all kinds of games, and I love watching movies and TV series.
+I love to study data science, play badminton, basketball and all kinds of games, and I love watching movies.
+
+I am a big fan of Derrick Rose(an NBA basketball player) and RNG(a team in League of Legends).
 
 I will devote myself to the data science application industry/research in the future.
 
-<img src="Images/Snowfox.jpeg" style="width:55%">
+<img src="Images/Snowfox.jpeg" style="width:50%">
+
+Explore more about me by clicking pages on the top navigation bar.
+
+Please feel free to contact me if you have any question about me or for cooperation.
 
 \ \par
 
